@@ -18,6 +18,8 @@ cd productapi
 
 ---
 
+![img_1.png](src%2Fmain%2Fresources%2Fstatic%2Fimg_1.png)
+
 ### Pruebas Postman
 
 ![img.png](src%2Fmain%2Fresources%2Fstatic%2Fimg.png)
