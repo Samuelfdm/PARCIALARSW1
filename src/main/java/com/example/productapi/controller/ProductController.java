@@ -23,6 +23,7 @@ class ProductController {
     }
     @PostMapping
     public Product addProduct(@RequestBody Product product) {
+        System.out.println(product);
         return productService.addProduct(product.getNombre(), product.getPrecio());
     }
 }
